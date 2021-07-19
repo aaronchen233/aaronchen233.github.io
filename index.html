@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>老陈博客</title>
+    <link href="css/style.css" rel="stylesheet" type="text/css"/>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+        }
+
+        video {
+            position: fixed;
+            right: 0;
+            bottom: 0;
+            min-width: 100%;
+            min-height: 100%;
+            width: auto;
+            height: auto;
+            z-index: -9999;
+        }
+
+        audio {
+            display: none;
+        }
+    </style>
+</head>
+<body>
+<div class="background">
+    <div class="head w">
+        <div class="head-left">
+            <h3 style="font-size: 1.75rem">老陈博客</h3>
+        </div>
+        <div class="head-right">
+            <ul>
+                <li>
+                    <a href="https://blog.csdn.net/qq_43008103" target="_blank">CSDN</a>
+                </li>
+                <li>
+                    <a href="https://www.weibo.com/u/6560875230" target="_blank">微博</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <div class="main w">
+        <h1>欢迎来到我的博客<br>我会在这里记录学习计算机的过程</h1>
+        <a href="#" target="_blank">
+            <button type="button" class="btn">点击进入
+            </button>
+        </a>
+    </div>
+    <video autoplay loop="loop" muted>
+        <source src="videos/江南烧酒.mp4" type="video/mp4"/>
+    </video>
+    <audio autoplay="autoplay" loop="loop" preload="auto" controls="controls"
+           src="musics/有哉和美月.mp3">
+    </audio>
+</div>
+</body>
+</html>
