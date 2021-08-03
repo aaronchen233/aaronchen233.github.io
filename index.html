@@ -3,58 +3,32 @@
 <head>
     <meta charset="UTF-8">
     <title>老陈博客</title>
-    <link href="css/style.css" rel="stylesheet" type="text/css"/>
-    <style>
-        * {
-            margin: 0;
-            padding: 0;
-        }
-
-        video {
-            position: fixed;
-            right: 0;
-            bottom: 0;
-            min-width: 100%;
-            min-height: 100%;
-            width: auto;
-            height: auto;
-            z-index: -9999;
-        }
-
-        audio {
-            display: none;
-        }
-    </style>
+    <link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
 <body>
-<div class="background">
-    <div class="head w">
-        <div class="head-left">
-            <h3 style="font-size: 1.75rem">老陈博客</h3>
+<div class="container">
+    <div class="header">
+        <div class="left">
+            <h1>老陈博客</h1>
         </div>
-        <div class="head-right">
+        <div class="right">
             <ul>
-                <li>
-                    <a href="https://blog.csdn.net/qq_43008103" target="_blank">CSDN</a>
-                </li>
-                <li>
-                    <a href="https://www.weibo.com/u/6560875230" target="_blank">微博</a>
-                </li>
+                <li><a href="#" target="_blank">CSDN</a></li>
+                <li><a href="#" target="_blank">博客园</a></li>
             </ul>
         </div>
     </div>
-    <div class="main w">
-        <h1>欢迎来到我的博客<br>我会在这里记录学习计算机的过程</h1>
-        <a href="#" target="_blank">
-            <button type="button" class="btn">点击进入
-            </button>
-        </a>
+    <div class="content">
+        <p>欢迎来到我的博客<br/>我会在这里记录学习计算机的过程</p>
+        <a href="#" target="_blank" class="btn">点击进入</a>
     </div>
-    <video autoplay loop="loop" muted>
-        <source src="videos/江南烧酒.mp4" type="video/mp4"/>
+    <video autoplay loop muted>
+        <source src="media/bg.mp4" type="video/mp4">
+        您的浏览器不支持 HTML5 video 标签。
     </video>
-    <audio autoplay="autoplay" loop="loop" preload="auto" controls="controls"
-           src="musics/有哉和美月.mp3">
+    <audio autoplay loop preload="auto">
+        <source src="media/bg.mp3" type="audio/mpeg">
+        您的浏览器不支持 audio 元素。
     </audio>
 </div>
 </body>
