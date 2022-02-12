@@ -57,6 +57,11 @@
         font-size: 14px;
         line-height: 40px;
     }
+
+    .search .search-input input:-webkit-autofill {
+        -webkit-transition-delay: 99999s;
+        -webkit-transition: color 99999s ease-out, background-color 99999s ease-out;
+    }
     
     .search .search-input input::-webkit-input-placeholder {
         color: #fff;
@@ -69,6 +74,7 @@
         border: 0;
         border-top-right-radius: 25px;
         border-bottom-right-radius: 25px;
+        color: #fff;
         font-family: 'icomoon';
         font-size: 18px;
         line-height: 40px;
