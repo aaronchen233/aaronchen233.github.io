@@ -69,14 +69,10 @@ body {
     color: #fff;
 }
 
-.clearfix:after {
-    visibility: hidden;
-    clear: both;
+#open {
     display: block;
-    content: ".";
-    height: 0;
 }
 
-.clearfix {
-    *zoom: 1;
+#close {
+    display: none;
 }

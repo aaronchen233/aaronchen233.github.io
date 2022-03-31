@@ -16,7 +16,9 @@
     }
     
     h1 {
+        display: inline-block;
         padding-top: 200px;
+        cursor: pointer;
     }
     
     @font-face {
@@ -57,7 +59,7 @@
         font-size: 14px;
         line-height: 40px;
     }
-
+    
     .search .search-input input:-webkit-autofill {
         -webkit-transition-delay: 99999s;
         -webkit-transition: color 99999s ease-out, background-color 99999s ease-out;
@@ -81,9 +83,17 @@
         vertical-align: bottom;
     }
     
+    .search .search-input button::before {
+        content: "\e986";
+    }
+    
     @media (max-width: 600px) {
         .search .search-input input {
-            width: calc(96% - 58px);
+            margin-left: 12px;
+            width: calc(100% - 82px);
+        }
+        .search .search-input button {
+            margin-right: 12px;
         }
     }
     
