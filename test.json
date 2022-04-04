@@ -1,243 +1,227 @@
-{
-  "bannerList": {
-    "banners": [
+[
+  {
+    "dt": "程序猿",
+    "dd": [
       {
-        "id": 31,
-        "pic_path": "http://data.bytebiu.com/banner/qmsht.jpg",
-        "title": "清明上河图发售公告",
-        "remark": "清明上河图发售公告",
-        "detail_url": "https://h5.bytebiu.com/qmsht.html"
+        "name": "CSDN",
+        "url": "https: //www.csdn.net/"
       },
       {
-        "id": 13,
-        "pic_path": "http://data.bytebiu.com/banner/qmsht_funeng.jpg",
-        "title": "清明上河图赋能公告",
-        "remark": "清明上河图赋能公告",
-        "detail_url": "https://h5.bytebiu.com/qmsht_funeng_detail.html"
+        "name": "菜鸟教程",
+        "url": "https: //www.runoob.com/"
       },
       {
-        "id": 23,
-        "pic_path": "http://data.bytebiu.com/banner/biz_plan_banner.jpeg",
-        "title": "汴京云都商业规划",
-        "remark": "汴京云都商业规划说明",
-        "detail_url": "https://h5.bytebiu.com/biz_plan.html"
+        "name": "腾讯云",
+        "url": "https: //www.cnblogs.com/"
       },
       {
-        "id": 17,
-        "pic_path": "http://data.bytebiu.com/banner/funeng_banner.jpeg",
-        "title": "藏品赋能公告",
-        "remark": "藏品赋能公告说明",
-        "detail_url": "https://h5.bytebiu.com/funeng.html"
+        "name": "宝塔Linux面板",
+        "url": "http://101.34.229.44:8888/login"
       },
       {
-        "id": 12,
-        "pic_path": "http://data.bytebiu.com/banner/welcome_collector_banner.jpeg",
-        "title": "成为收藏家",
-        "remark": "成为收藏家说明",
-        "detail_url": "https://h5.bytebiu.com/welcome_collector.html"
-      }
-    ],
-    "colls": [
-      {
-        "id": 10023,
-        "name": "清明上河图·千烛灯",
-        "img_path": "http://data.bytebiu.com/lx_collection/qmsht_qzd_cover.jpg",
-        "type": 1,
-        "total_num": 9980,
-        "remain_num": 9980,
-        "price": "68.80",
-        "collection_path": "http://data.bytebiu.com/lx_collection/qmsht_qzd.gif",
-        "story_path": "http://data.bytebiu.com/lx_collection/qmsht_qzd_story1.jpg",
-        "story_height": 3656,
-        "release_avatar": "http://data.bytebiu.com/lx_collection/liangxuan.jpg",
-        "release_name": "良选科技",
-        "release_begin_time": 1648530600,
-        "release_end_time": 1648616400,
-        "server_time": 1648470430,
-        "sale_status": 1,
-        "countDown": "",
-        "remainTime": 60170,
-        "isCountDown": true
+        "name": "博客园",
+        "url": "https: //www.cnblogs.com/"
       },
       {
-        "id": 10024,
-        "name": "清明上河图·安楼灯",
-        "img_path": "http://data.bytebiu.com/lx_collection/qmsht_ald_cover1.jpg",
-        "type": 1,
-        "total_num": 10000,
-        "remain_num": 10000,
-        "price": "68.80",
-        "collection_path": "http://data.bytebiu.com/lx_collection/qmsht_ald.gif",
-        "story_path": "http://data.bytebiu.com/lx_collection/qmsht_ald_story1.jpg",
-        "story_height": 3476,
-        "release_avatar": "http://data.bytebiu.com/lx_collection/liangxuan.jpg",
-        "release_name": "良选科技",
-        "release_begin_time": 1648617000,
-        "release_end_time": 1648702800,
-        "server_time": 1648470430,
-        "sale_status": 1,
-        "countDown": "03-30 13:10",
-        "remainTime": 146570,
-        "isCountDown": false
+        "name": "GitHub",
+        "url": "https: //github.com/"
       },
       {
-        "id": 10019,
-        "name": "神农·炎帝",
-        "img_path": "http://data.bytebiu.com/lx_collection/shennong_cover.jpg",
-        "type": 1,
-        "total_num": 4700,
-        "remain_num": 0,
-        "price": "18.80",
-        "collection_path": "http://data.bytebiu.com/lx_collection/shennong.gif",
-        "story_path": "http://data.bytebiu.com/lx_collection/shennong1_story.jpg",
-        "story_height": 2849,
-        "release_avatar": "http://data.bytebiu.com/lx_collection/liangxuan.jpg",
-        "release_name": "良选科技",
-        "release_begin_time": 1648188600,
-        "release_end_time": 1648224000,
-        "server_time": 1648470430,
-        "sale_status": 0,
-        "countDown": ""
+        "name": "CODELF",
+        "url": "https: //unbug.github.io/codelf/"
       },
       {
-        "id": 10018,
-        "name": "火神·祝融",
-        "img_path": "http://data.bytebiu.com/lx_collection/huoshen_cover.jpg",
-        "type": 1,
-        "total_num": 4960,
-        "remain_num": 0,
-        "price": "18.80",
-        "collection_path": "http://data.bytebiu.com/lx_collection/huoshen1.gif",
-        "story_path": "http://data.bytebiu.com/lx_collection/huoshen_story.jpg",
-        "story_height": 2947,
-        "release_avatar": "http://data.bytebiu.com/lx_collection/liangxuan.jpg",
-        "release_name": "良选科技",
-        "release_begin_time": 1648102200,
-        "release_end_time": 1648137600,
-        "server_time": 1648470430,
-        "sale_status": 0,
-        "countDown": ""
+        "name": "码云",
+        "url": "https: //gitee.com/"
       },
       {
-        "id": 10017,
-        "name": "地母·后土",
-        "img_path": "http://data.bytebiu.com/lx_collection/dimu1_cover.jpeg",
-        "type": 1,
-        "total_num": 5000,
-        "remain_num": 0,
-        "price": "18.80",
-        "collection_path": "http://data.bytebiu.com/lx_collection/dimu.gif",
-        "story_path": "http://data.bytebiu.com/lx_collection/dimu_story.jpeg",
-        "story_height": 2568,
-        "release_avatar": "http://data.bytebiu.com/lx_collection/liangxuan.jpg",
-        "release_name": "良选科技",
-        "release_begin_time": 1648015800,
-        "release_end_time": 1648051200,
-        "server_time": 1648470430,
-        "sale_status": 0,
-        "countDown": ""
+        "name": "吾爱破解",
+        "url": "https: //www.52pojie.cn/"
+      },
+      {
+        "name": "MSDN",
+        "url": "https: //msdn.itellyou.cn/"
+      },
+      {
+        "name": "Greasy Fork",
+        "url": "https: //greasyfork.org/zh-CN/"
+      },
+      {
+        "name": "比特虫",
+        "url": "https: //www.bitbug.net/"
+      },
+      {
+        "name": "IcoMoon",
+        "url": "https: //icomoon.io/app/#/select"
+      },
+      {
+        "name": "免费空间",
+        "url": "https: //free.3v.do/"
       }
     ]
   },
-  "numberList": [
-    {
-      "id": 10023,
-      "name": "清明上河图·千烛灯",
-      "img_path": "http://data.bytebiu.com/lx_collection/qmsht_qzd_cover.jpg",
-      "type": 1,
-      "total_num": 9980,
-      "remain_num": 9980,
-      "price": "68.80",
-      "collection_path": "http://data.bytebiu.com/lx_collection/qmsht_qzd.gif",
-      "story_path": "http://data.bytebiu.com/lx_collection/qmsht_qzd_story1.jpg",
-      "story_height": 3656,
-      "release_avatar": "http://data.bytebiu.com/lx_collection/liangxuan.jpg",
-      "release_name": "良选科技",
-      "release_begin_time": 1648530600,
-      "release_end_time": 1648616400,
-      "server_time": 1648470430,
-      "sale_status": 1,
-      "countDown": "16:42:46",
-      "remainTime": 60166,
-      "isCountDown": true
-    },
-    {
-      "id": 10024,
-      "name": "清明上河图·安楼灯",
-      "img_path": "http://data.bytebiu.com/lx_collection/qmsht_ald_cover1.jpg",
-      "type": 1,
-      "total_num": 10000,
-      "remain_num": 10000,
-      "price": "68.80",
-      "collection_path": "http://data.bytebiu.com/lx_collection/qmsht_ald.gif",
-      "story_path": "http://data.bytebiu.com/lx_collection/qmsht_ald_story1.jpg",
-      "story_height": 3476,
-      "release_avatar": "http://data.bytebiu.com/lx_collection/liangxuan.jpg",
-      "release_name": "良选科技",
-      "release_begin_time": 1648617000,
-      "release_end_time": 1648702800,
-      "server_time": 1648470430,
-      "sale_status": 1,
-      "countDown": "03-30 13:10",
-      "remainTime": 146570,
-      "isCountDown": false
-    },
-    {
-      "id": 10019,
-      "name": "神农·炎帝",
-      "img_path": "http://data.bytebiu.com/lx_collection/shennong_cover.jpg",
-      "type": 1,
-      "total_num": 4700,
-      "remain_num": 0,
-      "price": "18.80",
-      "collection_path": "http://data.bytebiu.com/lx_collection/shennong.gif",
-      "story_path": "http://data.bytebiu.com/lx_collection/shennong1_story.jpg",
-      "story_height": 2849,
-      "release_avatar": "http://data.bytebiu.com/lx_collection/liangxuan.jpg",
-      "release_name": "良选科技",
-      "release_begin_time": 1648188600,
-      "release_end_time": 1648224000,
-      "server_time": 1648470430,
-      "sale_status": 0,
-      "countDown": ""
-    },
-    {
-      "id": 10018,
-      "name": "火神·祝融",
-      "img_path": "http://data.bytebiu.com/lx_collection/huoshen_cover.jpg",
-      "type": 1,
-      "total_num": 4960,
-      "remain_num": 0,
-      "price": "18.80",
-      "collection_path": "http://data.bytebiu.com/lx_collection/huoshen1.gif",
-      "story_path": "http://data.bytebiu.com/lx_collection/huoshen_story.jpg",
-      "story_height": 2947,
-      "release_avatar": "http://data.bytebiu.com/lx_collection/liangxuan.jpg",
-      "release_name": "良选科技",
-      "release_begin_time": 1648102200,
-      "release_end_time": 1648137600,
-      "server_time": 1648470430,
-      "sale_status": 0,
-      "countDown": ""
-    },
-    {
-      "id": 10017,
-      "name": "地母·后土",
-      "img_path": "http://data.bytebiu.com/lx_collection/dimu1_cover.jpeg",
-      "type": 1,
-      "total_num": 5000,
-      "remain_num": 0,
-      "price": "18.80",
-      "collection_path": "http://data.bytebiu.com/lx_collection/dimu.gif",
-      "story_path": "http://data.bytebiu.com/lx_collection/dimu_story.jpeg",
-      "story_height": 2568,
-      "release_avatar": "http://data.bytebiu.com/lx_collection/liangxuan.jpg",
-      "release_name": "良选科技",
-      "release_begin_time": 1648015800,
-      "release_end_time": 1648051200,
-      "server_time": 1648470430,
-      "sale_status": 0,
-      "countDown": ""
-    }
-  ]
-}
+  {
+    "dt": "直播",
+    "dd": [
+      {
+        "name": "斗鱼",
+        "url": "https: //www.douyu.com/"
+      },
+      {
+        "name": "虎牙",
+        "url": "https: //www.huya.com/"
+      },
+      {
+        "name": "抖音直播",
+        "url": "https: //live.douyin.com/"
+      },
+      {
+        "name": "快手直播",
+        "url": "https: //live.kuaishou.com/"
+      },
+      {
+        "name": "哔哩哔哩直播",
+        "url": "https: //live.bilibili.com/"
+      }
+    ]
+  },
+  {
+    "dt": "购物",
+    "dd": [
+      {
+        "name": "淘宝",
+        "url": "https: //www.taobao.com/"
+      },
+      {
+        "name": "京东",
+        "url": "https: //www.jd.com/"
+      }
+    ]
+  },
+  {
+    "dt": "游戏",
+    "dd": [
+      {
+        "name": "LoLalytics",
+        "url": "https: //lolalytics.com/lol/tierlist/"
+      },
+      {
+        "name": "OP.GG",
+        "url": "http: //op.gg/champions"
+      },
+      {
+        "name": "U.GG",
+        "url": "https: //u.gg/"
+      },
+      {
+        "name": "王者象棋",
+        "url": "https: //ke.wechess.cn/app/index.php?i=5&c=entry&m=xiangqi_lesson&do=chess&op=analyse"
+      },
+      {
+        "name": "中国象棋云库",
+        "url": "https: //www.chessdb.cn/"
+      }
+    ]
+  },
+  {
+    "dt": "云盘",
+    "dd": [
+      {
+        "name": "百度网盘",
+        "url": "https: //pan.baidu.com/"
+      },
+      {
+        "name": "阿里云盘",
+        "url": "https: //www.aliyundrive.com/"
+      },
+      {
+        "name": "天翼云盘",
+        "url": "https: //cloud.189.cn/"
+      }
+    ]
+  },
+  {
+    "dt": "视频",
+    "dd": [
+      {
+        "name": "哔哩哔哩",
+        "url": "https: //www.bilibili.com/"
+      },
+      {
+        "name": "爱奇艺",
+        "url": "https: //www.iqiyi.com/"
+      },
+      {
+        "name": "优酷",
+        "url": "https: //www.youku.com/"
+      },
+      {
+        "name": "抖音",
+        "url": "https: //www.douyin.com/"
+      }
+    ]
+  },
+  {
+    "dt": "学习",
+    "dd": [
+      {
+        "name": "智慧树",
+        "url": "https: //www.zhihuishu.com/"
+      },
+      {
+        "name": "学习通",
+        "url": "http: //i.chaoxing.com/"
+      },
+      {
+        "name": "中国大学MOOC",
+        "url": "https: //www.icourse163.org/"
+      },
+      {
+        "name": "大连大学WebVPN系统",
+        "url": "http: //202.199.157.28/"
+      }
+    ]
+  },
+  {
+    "dt": "资源",
+    "dd": [
+      {
+        "name": "末日动漫",
+        "url": "https: //share.acgnx.net/"
+      }
+    ]
+  },
+  {
+    "dt": "法外狂徒",
+    "dd": [
+      {
+        "name": "bet365",
+        "url": "https: //www.365365304.com/"
+      },
+      {
+        "name": "绅士仓库",
+        "url": "https: //galacg.github.io/"
+      },
+      {
+        "name": "BTSOW",
+        "url": "https: //btsow.rest/"
+      },
+      {
+        "name": "色花堂",
+        "url": "https: //www.zxdaqw.top/"
+      },
+      {
+        "name": "Sleazy Fork",
+        "url": "https: //sleazyfork.org/zh-CN"
+      },
+      {
+        "name": "琉璃神社",
+        "url": "https: //liuli.app/"
+      },
+      {
+        "name": "JavBus",
+        "url": "https: //www.dmmbus.fun/forum/home.php?mod=space&uid=400342"
+      }
+    ]
+  }
+]
