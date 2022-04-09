@@ -4,15 +4,15 @@
     "dd": [
       {
         "name": "CSDN",
-        "url": "https://www.csdn.net/"
+        "url": "https: //www.csdn.net/"
       },
       {
         "name": "菜鸟教程",
-        "url": "https://www.runoob.com/"
+        "url": "https: //www.runoob.com/"
       },
       {
         "name": "腾讯云",
-        "url": "https://www.cnblogs.com/"
+        "url": "https: //www.cnblogs.com/"
       },
       {
         "name": "宝塔Linux面板",
@@ -20,43 +20,43 @@
       },
       {
         "name": "博客园",
-        "url": "https://www.cnblogs.com/"
+        "url": "https: //www.cnblogs.com/"
       },
       {
         "name": "GitHub",
-        "url": "https://github.com/"
+        "url": "https: //github.com/"
       },
       {
         "name": "CODELF",
-        "url": "https://unbug.github.io/codelf/"
+        "url": "https: //unbug.github.io/codelf/"
       },
       {
         "name": "码云",
-        "url": "https://gitee.com/"
+        "url": "https: //gitee.com/"
       },
       {
         "name": "吾爱破解",
-        "url": "https://www.52pojie.cn/"
+        "url": "https: //www.52pojie.cn/"
       },
       {
         "name": "MSDN",
-        "url": "https://msdn.itellyou.cn/"
+        "url": "https: //msdn.itellyou.cn/"
       },
       {
         "name": "Greasy Fork",
-        "url": "https://greasyfork.org/zh-CN/"
+        "url": "https: //greasyfork.org/zh-CN/"
       },
       {
         "name": "比特虫",
-        "url": "https://www.bitbug.net/"
+        "url": "https: //www.bitbug.net/"
       },
       {
         "name": "IcoMoon",
-        "url": "https://icomoon.io/app/#/select"
+        "url": "https: //icomoon.io/app/#/select"
       },
       {
         "name": "免费空间",
-        "url": "https://free.3v.do/"
+        "url": "https: //free.3v.do/"
       }
     ]
   },
@@ -65,23 +65,23 @@
     "dd": [
       {
         "name": "斗鱼",
-        "url": "https://www.douyu.com/"
+        "url": "https: //www.douyu.com/"
       },
       {
         "name": "虎牙",
-        "url": "https://www.huya.com/"
+        "url": "https: //www.huya.com/"
       },
       {
         "name": "抖音直播",
-        "url": "https://live.douyin.com/"
+        "url": "https: //live.douyin.com/"
       },
       {
         "name": "快手直播",
-        "url": "https://live.kuaishou.com/"
+        "url": "https: //live.kuaishou.com/"
       },
       {
         "name": "哔哩哔哩直播",
-        "url": "https://live.bilibili.com/"
+        "url": "https: //live.bilibili.com/"
       }
     ]
   },
@@ -90,11 +90,11 @@
     "dd": [
       {
         "name": "淘宝",
-        "url": "https://www.taobao.com/"
+        "url": "https: //www.taobao.com/"
       },
       {
         "name": "京东",
-        "url": "https://www.jd.com/"
+        "url": "https: //www.jd.com/"
       }
     ]
   },
@@ -103,23 +103,23 @@
     "dd": [
       {
         "name": "LoLalytics",
-        "url": "https://lolalytics.com/lol/tierlist/"
+        "url": "https: //lolalytics.com/lol/tierlist/"
       },
       {
         "name": "OP.GG",
-        "url": "http://op.gg/champions"
+        "url": "http: //op.gg/champions"
       },
       {
         "name": "U.GG",
-        "url": "https://u.gg/"
+        "url": "https: //u.gg/"
       },
       {
         "name": "王者象棋",
-        "url": "https://ke.wechess.cn/app/index.php?i=5&c=entry&m=xiangqi_lesson&do=chess&op=analyse"
+        "url": "https: //ke.wechess.cn/app/index.php?i=5&c=entry&m=xiangqi_lesson&do=chess&op=analyse"
       },
       {
         "name": "中国象棋云库",
-        "url": "https://www.chessdb.cn/"
+        "url": "https: //www.chessdb.cn/"
       }
     ]
   },
@@ -128,15 +128,15 @@
     "dd": [
       {
         "name": "百度网盘",
-        "url": "https://pan.baidu.com/"
+        "url": "https: //pan.baidu.com/"
       },
       {
         "name": "阿里云盘",
-        "url": "https://www.aliyundrive.com/"
+        "url": "https: //www.aliyundrive.com/"
       },
       {
         "name": "天翼云盘",
-        "url": "https://cloud.189.cn/"
+        "url": "https: //cloud.189.cn/"
       }
     ]
   },
@@ -145,19 +145,19 @@
     "dd": [
       {
         "name": "哔哩哔哩",
-        "url": "https://www.bilibili.com/"
+        "url": "https: //www.bilibili.com/"
       },
       {
         "name": "爱奇艺",
-        "url": "https://www.iqiyi.com/"
+        "url": "https: //www.iqiyi.com/"
       },
       {
         "name": "优酷",
-        "url": "https://www.youku.com/"
+        "url": "https: //www.youku.com/"
       },
       {
         "name": "抖音",
-        "url": "https://www.douyin.com/"
+        "url": "https: //www.douyin.com/"
       }
     ]
   },
@@ -166,19 +166,19 @@
     "dd": [
       {
         "name": "智慧树",
-        "url": "https://www.zhihuishu.com/"
+        "url": "https: //www.zhihuishu.com/"
       },
       {
         "name": "学习通",
-        "url": "http://i.chaoxing.com/"
+        "url": "http: //i.chaoxing.com/"
       },
       {
         "name": "中国大学MOOC",
-        "url": "https://www.icourse163.org/"
+        "url": "https: //www.icourse163.org/"
       },
       {
         "name": "大连大学WebVPN系统",
-        "url": "http://202.199.157.28/"
+        "url": "http: //202.199.157.28/"
       }
     ]
   },
@@ -187,7 +187,7 @@
     "dd": [
       {
         "name": "末日动漫",
-        "url": "https://share.acgnx.net/"
+        "url": "https: //share.acgnx.net/"
       }
     ]
   },
@@ -196,31 +196,31 @@
     "dd": [
       {
         "name": "bet365",
-        "url": "https://www.365365304.com/"
+        "url": "https: //www.365365304.com/"
       },
       {
         "name": "绅士仓库",
-        "url": "https://galacg.github.io/"
+        "url": "https: //galacg.github.io/"
       },
       {
         "name": "BTSOW",
-        "url": "https://btsow.rest/"
+        "url": "https: //btsow.rest/"
       },
       {
         "name": "色花堂",
-        "url": "https://www.zxdaqw.top/"
+        "url": "https: //www.zxdaqw.top/"
       },
       {
         "name": "Sleazy Fork",
-        "url": "https://sleazyfork.org/zh-CN"
+        "url": "https: //sleazyfork.org/zh-CN"
       },
       {
         "name": "琉璃神社",
-        "url": "https://liuli.app/"
+        "url": "https: //liuli.app/"
       },
       {
         "name": "JavBus",
-        "url": "https://www.dmmbus.fun/forum/home.php?mod=space&uid=400342"
+        "url": "https: //www.dmmbus.fun/forum/home.php?mod=space&uid=400342"
       }
     ]
   }
